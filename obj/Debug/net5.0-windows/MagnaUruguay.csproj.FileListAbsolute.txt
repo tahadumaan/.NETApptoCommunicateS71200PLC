@@ -1,0 +1,76 @@
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.exe
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.deps.json
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.json
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.dev.json
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.dll
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\ref\MagnaUruguay.dll
+D:\Visual Studio 2019\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.pdb
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.csprojAssemblyReference.cache
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.csproj.GenerateResource.cache
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfo.cs
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.dll
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\ref\MagnaUruguay.dll
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.pdb
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.genruntimeconfig.cache
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.Properties.Resources.resources
+D:\Visual Studio 2019\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.km1.resources
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.csprojAssemblyReference.cache
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.km1.resources
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.Properties.Resources.resources
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.csproj.GenerateResource.cache
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfoInputs.cache
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfo.cs
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.csproj.CoreCompileInputs.cache
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\ref\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.pdb
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.exe
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.deps.json
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.json
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.dev.json
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\ref\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguay\bin\Debug\net5.0-windows\MagnaUruguay.pdb
+C:\Users\tduman\Desktop\MagnaUruguay\obj\Debug\net5.0-windows\MagnaUruguay.genruntimeconfig.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\MagnaUruguay.exe
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\MagnaUruguay.deps.json
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.json
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.dev.json
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\ref\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev\bin\Debug\net5.0-windows\MagnaUruguay.pdb
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.csprojAssemblyReference.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.km1.resources
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.Properties.Resources.resources
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.csproj.GenerateResource.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfoInputs.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfo.cs
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.csproj.CoreCompileInputs.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\ref\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.pdb
+C:\Users\tduman\Desktop\MagnaUruguayRev\obj\Debug\net5.0-windows\MagnaUruguay.genruntimeconfig.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\MagnaUruguay.exe
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\MagnaUruguay.deps.json
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.json
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\MagnaUruguay.runtimeconfig.dev.json
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\ref\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev2\bin\Debug\net5.0-windows\MagnaUruguay.pdb
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.csprojAssemblyReference.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.km1.resources
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.Properties.Resources.resources
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.csproj.GenerateResource.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfoInputs.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.AssemblyInfo.cs
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.csproj.CoreCompileInputs.cache
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\ref\MagnaUruguay.dll
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.pdb
+C:\Users\tduman\Desktop\MagnaUruguayRev2\obj\Debug\net5.0-windows\MagnaUruguay.genruntimeconfig.cache
